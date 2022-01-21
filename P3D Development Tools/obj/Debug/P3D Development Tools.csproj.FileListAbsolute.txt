@@ -1,0 +1,15 @@
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\bin\Debug\P3D Development Tools.exe.config
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\bin\Debug\P3D Development Tools.exe
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\bin\Debug\P3D Development Tools.pdb
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D Development Tools.csproj.AssemblyReference.cache
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\MainWindow.g.cs
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\App.g.cs
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D Development Tools_MarkupCompile.cache
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D Development Tools_MarkupCompile.lref
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\MainWindow.baml
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D Development Tools.g.resources
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D_Development_Tools.Properties.Resources.resources
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D Development Tools.csproj.GenerateResource.cache
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D Development Tools.csproj.CoreCompileInputs.cache
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D Development Tools.exe
+C:\Users\Henrik\source\repos\P3D Development Tools\P3D Development Tools\obj\Debug\P3D Development Tools.pdb
